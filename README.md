@@ -1,6 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ![badge](https://img.shields.io/github/last-commit/shiver750/text-editor)
-
+  
+  # Text Editor
+  
   ![screenshot of finished page](./Assets/Screenshot7.png)
   
   ## Live Deployment
